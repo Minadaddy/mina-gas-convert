@@ -1,1 +1,4 @@
-# mina-gas-convert
+## Installation
+```bash
+npm mina-gas-convert
+```
